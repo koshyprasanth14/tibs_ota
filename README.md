@@ -1,1 +1,1 @@
-# tibs_ota
+# tibs-ota
